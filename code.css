@@ -140,6 +140,14 @@ a.btn.btn-sm {
 .box-footer {
     border-radius: 10px 10px 10px 10px;
 }
+.syntaxhighlighter table td.gutter .line
+{
+    background-color: #dcdcdc59 !important;
+}
+.syntaxhighlighter .gutter .line
+{
+    border-right: 0px !important;
+}
 .form-control {
     border-radius: 3px;
 }
