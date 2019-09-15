@@ -62,7 +62,7 @@ html {
 }
 .datepicker {
 
-    border-radius: 15px 15px 15px 15px;
+    border-radius: 3px;
     background: #207ac9
 }
 .datepicker .datepicker-switch:hover,
@@ -71,16 +71,24 @@ html {
 .datepicker tfoot tr th:hover {
     background: #1b69ad
 }
+.well
+{
+    border-radius:3px !important;
+}
 .fadeInLeft {
     -webkit-animation-name: fadeInLeft;
     animation-name: fadeInLeft
 }
 .list-group
 {
-    border-radius: 10px 10px 3px 3px !important;
+    border-radius: 3px !important;
 }
 a {
     color: #434365;
+}
+.box:hover
+{
+    box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .21) !important;
 }
 .btn-default:hover,
 .btn-default:active,
@@ -98,19 +106,27 @@ a:focus {
 }
 /* .btn {
 } */
+.panel-success
+{
+	border-radius: 3px !important;
+}
 .syntaxhighlighter .toolbar
 {
     display:none;
 }
 .panel {
     overflow: hidden;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 3px;
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important
 }
 .list-group {
     overflow: hidden;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 3px;
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important
+}
+.syntaxhighlighter
+{
+    overflow: visible !important;
 }
 .box {
     animation: fadeInUp 1s ease;
@@ -170,6 +186,10 @@ a.btn.btn-sm {
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     border-radius: 10px 0.1px 0.1px 10px;
+}
+.jumbotron
+{
+    background-color: #fff;
 }
 .well {
     border-radius: 10px 10px 10px 10px;
