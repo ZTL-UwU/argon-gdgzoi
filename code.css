@@ -87,8 +87,16 @@ html {
 a {
     color: #434365;
 }
+.skin-blue .main-header .navbar
+{
+    background-color: #3c8dbce3 !important;
+}
+.skin-blue .main-header .logo
+{
+    background-color: #3c8dbce3 !important;
+}
 .box:hover {
-    box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .21) !important;
+    box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .10) !important;
 }
 .btn-default:hover, .btn-default:active, .btn-default.hover {
     background-color: #172b4d;
