@@ -59,6 +59,9 @@ html {
 .control-sidebar.control-sidebar-open, .control-sidebar.control-sidebar-open + .control-sidebar-bg {
     box-shadow: 5px 5px 15px rgba(50, 50, 93, .22), 3px 5px 8px rgba(0, 0, 0, .22) !important
 }
+.col-md-12 {
+    margin-top: 15px;
+}
 .datepicker {
     border-radius: 3px;
     background: #207ac9
@@ -81,6 +84,10 @@ html {
     -webkit-animation-name: fadeInLeft;
     animation-name: fadeInLeft
 }
+.content
+{
+    margin-top:-27px;
+}
 .list-group {
     border-radius: 3px !important;
 }
@@ -94,6 +101,10 @@ a {
 .skin-blue .main-header .logo
 {
     background-color: #3c8dbce3 !important;
+}
+#nav
+{
+    background-color:#fff;
 }
 .box:hover {
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .10) !important;
