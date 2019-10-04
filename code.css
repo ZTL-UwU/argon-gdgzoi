@@ -64,10 +64,10 @@ html {
 }
 .datepicker {
     border-radius: 3px;
-    background: #207ac9
+    background: #1b69adfa
 }
 .datepicker .datepicker-switch:hover, .datepicker .next:hover, .datepicker .prev:hover, .datepicker tfoot tr th:hover {
-    background: #1b69ad
+    background: #1b69adfa
 }
 .panel-success>.panel-heading
 {
@@ -93,14 +93,6 @@ html {
 }
 a {
     color: #434365;
-}
-.skin-blue .main-header .navbar
-{
-    background-color: #3c8dbce3 !important;
-}
-.skin-blue .main-header .logo
-{
-    background-color: #3c8dbce3 !important;
 }
 #nav
 {
