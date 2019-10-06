@@ -168,6 +168,10 @@ html {
     -webkit-animation-name: fadeInLeft;
     animation-name: fadeInLeft
 }
+.example
+{
+    display:none;
+}
 .content {
     margin-top: -27px;
 }
@@ -683,4 +687,148 @@ pre {
 {
     color: #0fb96b;
 } */
+}
+
+@-moz-document url-prefix("http://www.gdgzoi.com/time/index.html"), url-prefix("http://gdgzoi.com/time/index.html") {
+body {
+    background-color:#fff !important;
+    font-size: 500%;
+}
+
+body::after {
+    color: #d00a0a;
+    margin-left:15%;
+    content: "不忘初心 砥砺前行";
+}
+}
+
+@-moz-document url-prefix("http://www.gdgzoi.com"), url-prefix("http://gdgzoi.com") {
+ a[href="userinfo.php?user=20183gdgzoi140"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20183gdgzoi140"]:after {
+    font-size:15px !important;
+    content:'巨佬lmr';
+}
+a[href*="status.php?problem_id=&user_id=20183gdgzoi140"]:after{
+    content:'奆犇';
+}
+ a[href="userinfo.php?user=20181gdgzoi30"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20181gdgzoi30"]:after {
+    font-size:15px !important;
+    content:'菜鸡ztl';
+}
+a[href*="status.php?problem_id=&user_id=20181gdgzoi30"]:after{
+    content:'蒟蒻';
+}
+
+ a[href="userinfo.php?user=2018gdgzoi01"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=2018gdgzoi01"]:after {
+    font-size:15px !important;
+    content:'巨佬slc';
+}
+a[href*="status.php?problem_id=&user_id=2018gdgzoi01"]:after{
+    content:'奆犇';
+}
+
+ a[href="userinfo.php?user=20181gdgzoi79"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20181gdgzoi79"]:after {
+    font-size:15px !important;
+    content:'巨佬wwq';
+}
+a[href*="status.php?problem_id=&user_id=20181gdgzoi79"]:after{
+    content:'奆犇';
+}
+
+ a[href="userinfo.php?user=2019gdgzoi01"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=2019gdgzoi01"]:after {
+    font-size:15px !important;
+    content:'巨佬lym';
+}
+a[href*="status.php?problem_id=&user_id=2019gdgzoi01"]:after{
+    content:'奆犇';
+}
+
+ a[href="userinfo.php?user=20183gdgzoi21"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20183gdgzoi21"]:after {
+    font-size:15px !important;
+    content:'巨佬zry';
+}
+a[href*="status.php?problem_id=&user_id=20183gdgzoi21"]:after{
+    content:'奆犇';
+}
+
+ a[href="userinfo.php?user=20182gdgzoi235"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20182gdgzoi235"]:after {
+    font-size:15px !important;
+    content:'巨佬zxx';
+}
+a[href*="status.php?problem_id=&user_id=20182gdgzoi235"]:after{
+    content:'奆犇';
+}
+
+ a[href="userinfo.php?user=20183gdgzoi19"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20183gdgzoi19"]:after {
+    font-size:15px !important;
+    content:'巨佬zxc';
+}
+a[href*="status.php?problem_id=&user_id=20183gdgzoi19"]:after{
+    content:'奆犇';
+}
+
+ a[href="userinfo.php?user=20181gdgzoi234"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20181gdgzoi234"]:after {
+    font-size:15px !important;
+    content:'巨佬fisher';
+}
+a[href*="status.php?problem_id=&user_id=20181gdgzoi234"]:after{
+    content:'奆犇';
+}
+ a[href="userinfo.php?user=20181gdgzoi149"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20181gdgzoi149"]:after {
+    font-size:15px !important;
+    content:'巨佬lyc';
+}
+a[href*="status.php?problem_id=&user_id=20181gdgzoi149"]:after{
+    content:'奆犇';
+}
+ a[href="userinfo.php?user=20186gdoi13"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20186gdoi13"]:after {
+    font-size:15px !important;
+    content:'NZyj';
+}
+a[href*="status.php?problem_id=&user_id=20186gdoi13"]:after{
+    content:'NZ';
+}
+
+ a[href="userinfo.php?user=20187gdgzoi194"] {
+    font-size:0px !important;
+}
+a[href="userinfo.php?user=20187gdgzoi194"]:after {
+    font-size:15px !important;
+    content:'蕉躁csd';
+}
+a[href*="status.php?problem_id=&user_id=20187gdgzoi194"]:after{
+    content:'蕉躁';
+}
 }
