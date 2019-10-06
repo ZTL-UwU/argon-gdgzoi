@@ -105,9 +105,6 @@ input[type="submit"]:hover {
     border-color: #11cdef;
     background-color: #11cdef
 }
-form[method="post"] {
-    height: 34px;
-}
 input[type="text"] {
     height: 32px;
     border-radius: 4px !important;
