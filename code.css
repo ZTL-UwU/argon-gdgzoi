@@ -1,4 +1,3 @@
-@-moz-document url-prefix("http://www.gdgzoi.com"), url-prefix("http://gdgzoi.com") {
 @font-face{font-family:'Open Sans';font-style:normal;font-weight:300;src:local('Open Sans Light'),local('OpenSans-Light'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Open Sans';font-style:normal;font-weight:300;src:local('Open Sans Light'),local('OpenSans-Light'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Open Sans';font-style:normal;font-weight:300;src:local('Open Sans Light'),local('OpenSans-Light'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:300;src:local('Open Sans Light'),local('OpenSans-Light'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:300;src:local('Open Sans Light'),local('OpenSans-Light'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Open Sans';font-style:normal;font-weight:300;src:local('Open Sans Light'),local('OpenSans-Light'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:300;src:local('Open Sans Light'),local('OpenSans-Light'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;src:local('Open Sans Regular'),local('OpenSans-Regular'),url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWJ0bbck.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;src:local('Open Sans Regular'),local('OpenSans-Regular'),url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFUZ0bbck.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;src:local('Open Sans Regular'),local('OpenSans-Regular'),url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWZ0bbck.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;src:local('Open Sans Regular'),local('OpenSans-Regular'),url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVp0bbck.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;src:local('Open Sans Regular'),local('OpenSans-Regular'),url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWp0bbck.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;src:local('Open Sans Regular'),local('OpenSans-Regular'),url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50bbck.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:400;src:local('Open Sans Regular'),local('OpenSans-Regular'),url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0b.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;src:local('Open Sans SemiBold'),local('OpenSans-SemiBold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;src:local('Open Sans SemiBold'),local('OpenSans-SemiBold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;src:local('Open Sans SemiBold'),local('OpenSans-SemiBold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;src:local('Open Sans SemiBold'),local('OpenSans-SemiBold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;src:local('Open Sans SemiBold'),local('OpenSans-SemiBold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;src:local('Open Sans SemiBold'),local('OpenSans-SemiBold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:600;src:local('Open Sans SemiBold'),local('OpenSans-SemiBold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UNirkOUuhp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;src:local('Open Sans Bold'),local('OpenSans-Bold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;src:local('Open Sans Bold'),local('OpenSans-Bold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;src:local('Open Sans Bold'),local('OpenSans-Bold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;src:local('Open Sans Bold'),local('OpenSans-Bold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;src:local('Open Sans Bold'),local('OpenSans-Bold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;src:local('Open Sans Bold'),local('OpenSans-Bold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Open Sans';font-style:normal;font-weight:700;src:local('Open Sans Bold'),local('OpenSans-Bold'),url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 @-webkit-keyframes fadeInUp {
     0% {
@@ -98,19 +97,23 @@ code, .hljs {
     margin-top: 5px;
     margin-bottom: 5px;
 }
+span[class="btn-info"] {
+    padding: 6px 12px;
+    border-radius:3px;
+}
 input[type="submit"] {
     transition: transform 0.5s;
-    color: #11cdef;
+    color: #3c8dbc;
     background-color: #ef000000;
-    border: 1px solid #11cdef !important;
+    border: 1px solid #3c8dbc !important;
     box-shadow: none;
 }
 input[type="submit"]:hover {
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important;
     color: #fff;
-    border-color: #11cdef;
-    background-color: #11cdef
+    border-color: #3c8dbc;
+    background-color: #3c8dbc
 }
 input[type="text"] {
     height: 32px;
@@ -502,6 +505,10 @@ pre {
 .skin-purple .main-header .navbar {
     background: linear-gradient(87deg, #5e72e4 0, #825ee4 100%) !important;
 }
+.panel-uoj-accepted > .panel-heading
+{
+    color:#f6f6f6;
+}
 .pagination > .active > a,
 .pagination > .active > a:focus,
 .pagination > .active > a:hover,
@@ -519,6 +526,18 @@ pre {
 .pagination > .active > span:hover {
     background-color: #5e72e4;
     border-color: #5e72e4;
+}
+panel-heading {
+        border:none;
+}
+.panel-uoj-accepted {
+    border:none;
+}
+.panel-uoj-accepted > .panel-heading {
+        background-color:#00a65a !important;
+}
+.panel-uoj-accepted > .panel-heading:hover {
+    background-color:#00a65a !important;
 }
 .pagination > li > a {
     border: .0625rem solid #dee2e6;
@@ -564,21 +583,21 @@ pre {
 .btn-danger:focus,
 .btn-danger:hover,
 .open > .dropdown-toggle.btn-danger {
-    background-color: #f5365c;
-    border-color: #f5365c;
+    background-color: #dd4b39;
+    border-color: #dd4b39;
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important;
 }
 .btn-danger:hover,
 .btn-danger:active,
 .btn-danger.hover {
-    background-color: #f5365c;
-    border-color: #f5365c;
+    background-color: #dd4b39;
+    border-color: #dd4b39;
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important;
 }
 .btn-danger {
-    color: #f5365c;
+    color: #dd4b39;
     background-color: #ef000000;
-    border-color: #f5365c;
+    border-color: #dd4b39;
 }
 .btn-warning.active,
 .btn-warning.focus,
@@ -586,21 +605,21 @@ pre {
 .btn-warning:focus,
 .btn-warning:hover,
 .open > .dropdown-toggle.btn-warning {
-    background-color: #fb6340;
-    border-color: #fb6340;
+    background-color: #f39c12;
+    border-color: #f39c12;
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important;
 }
 .btn-warning:hover,
 .btn-warning:active,
 .btn-warning.hover {
-    background-color: #fb6340;
-    border-color: #fb6340;
+    background-color: #f39c12;
+    border-color: #f39c12;
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important;
 }
 .btn-warning {
-    color: #fb6340;
+    color: #f39c12;
     background-color: #ef000000;
-    border-color: #fb6340;
+    border-color: #f39c12;
 }
 .btn-success.active,
 .btn-success.focus,
@@ -608,26 +627,26 @@ pre {
 .btn-success:focus,
 .btn-success:hover,
 .open > .dropdown-toggle.btn-success {
-    background-color: #2dce89;
-    border-color: #2dce89;
+    background-color: #00a65a;
+    border-color: #00a65a;
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important;
 }
 .btn-success:hover,
 .btn-success:active,
 .btn-success.hover {
-    background-color: #2dce89;
-    border-color: #2dce89;
+    background-color: #00a65a;
+    border-color: #00a65a;
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important;
 }
 .btn-success {
-    color: #2dce89;
+    color: #00a65a;
     background-color: #ef000000;
-    border-color: #2dce89;
+    border-color: #00a65a;
 }
 .btn-info {
-    color: #11cdef;
+    color: #3c8dbc;
     background-color: #ef000000;
-    border: 1px solid #11cdef !important;
+    border: 1px solid #3c8dbc !important;
     box-shadow: none;
 }
 .btn-info:hover,
@@ -635,8 +654,8 @@ pre {
 .btn-info.hover {
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important;
     color: #fff;
-    border-color: #11cdef;
-    background-color: #11cdef;
+    border-color: #3c8dbc;
+    background-color: #3c8dbc;
 }
 .btn-info.active,
 .btn-info.focus,
@@ -647,13 +666,13 @@ pre {
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(50, 50, 93, .1), 0 5px 8px rgba(0, 0, 0, .07) !important;
     color: #fff;
-    border-color: #11cdef;
-    background-color: #11cdef;
+    border-color: #3c8dbc;
+    background-color: #3c8dbc;
 }
 .btn-primary {
-    color: #11cdef;
+    color: #3c8dbc;
     background-color: #ef000000;
-    border-color: #11cdef;
+    border-color: #3c8dbc;
 }
 .btn-default:hover,
 .btn-default:active,
@@ -675,8 +694,8 @@ pre {
 .btn-primary:focus,
 .btn-primary:hover,
 .open > .dropdown-toggle.btn-primary {
-    background-color: #11cdef;
-    border-color: #11cdef;
+    background-color: #3c8dbc;
+    border-color: #3c8dbc;
 }
 .progress-bar-light-blue,
 .progress-bar-primary {
@@ -702,148 +721,3 @@ pre {
 {
     color: #0fb96b;
 } */
-}
-
-@-moz-document url-prefix("http://www.gdgzoi.com/time/index.html"), url-prefix("http://gdgzoi.com/time/index.html") {
-body {
-    background-color:#fff !important;
-    font-size: 500%;
-}
-
-body::after {
-    color: #d00a0a;
-    margin-left:15%;
-    content: "不忘初心 砥砺前行";
-}
-}
-
-@-moz-document url-prefix("http://www.gdgzoi.com"), url-prefix("http://gdgzoi.com") {
-a[href="userinfo.php?user=20183gdgzoi140"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20183gdgzoi140"]:after {
-    font-size:15px !important;
-    content:'巨佬lmr';
-}
-a[href*="status.php?problem_id=&user_id=20183gdgzoi140"]:after{
-    content:'奆犇';
-}
- a[href="userinfo.php?user=20181gdgzoi30"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20181gdgzoi30"]:after {
-    font-size:15px !important;
-    content:'菜鸡ztl';
-}
-a[href*="status.php?problem_id=&user_id=20181gdgzoi30"]:after{
-    content:'蒟蒻';
-}
-
- a[href="userinfo.php?user=2018gdgzoi01"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=2018gdgzoi01"]:after {
-    font-size:15px !important;
-    content:'巨佬slc';
-}
-a[href*="status.php?problem_id=&user_id=2018gdgzoi01"]:after{
-    content:'奆犇';
-}
-
- a[href="userinfo.php?user=20181gdgzoi79"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20181gdgzoi79"]:after {
-    font-size:15px !important;
-    content:'巨佬wwq';
-}
-a[href*="status.php?problem_id=&user_id=20181gdgzoi79"]:after{
-    content:'奆犇';
-}
-
- a[href="userinfo.php?user=2019gdgzoi01"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=2019gdgzoi01"]:after {
-    font-size:15px !important;
-    content:'巨佬lym';
-}
-a[href*="status.php?problem_id=&user_id=2019gdgzoi01"]:after{
-    content:'奆犇';
-}
-
- a[href="userinfo.php?user=20183gdgzoi21"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20183gdgzoi21"]:after {
-    font-size:15px !important;
-    content:'巨佬zry';
-}
-a[href*="status.php?problem_id=&user_id=20183gdgzoi21"]:after{
-    content:'奆犇';
-}
-
- a[href="userinfo.php?user=20182gdgzoi235"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20182gdgzoi235"]:after {
-    font-size:15px !important;
-    content:'巨佬zxx';
-}
-a[href*="status.php?problem_id=&user_id=20182gdgzoi235"]:after{
-    content:'奆犇';
-}
-
- a[href="userinfo.php?user=20183gdgzoi19"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20183gdgzoi19"]:after {
-    font-size:15px !important;
-    content:'巨佬zxc';
-}
-a[href*="status.php?problem_id=&user_id=20183gdgzoi19"]:after{
-    content:'奆犇';
-}
-
- a[href="userinfo.php?user=20181gdgzoi234"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20181gdgzoi234"]:after {
-    font-size:15px !important;
-    content:'巨佬fisher';
-}
-a[href*="status.php?problem_id=&user_id=20181gdgzoi234"]:after{
-    content:'奆犇';
-}
- a[href="userinfo.php?user=20181gdgzoi149"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20181gdgzoi149"]:after {
-    font-size:15px !important;
-    content:'巨佬lyc';
-}
-a[href*="status.php?problem_id=&user_id=20181gdgzoi149"]:after{
-    content:'奆犇';
-}
- a[href="userinfo.php?user=20186gdoi13"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20186gdoi13"]:after {
-    font-size:15px !important;
-    content:'NZyj';
-}
-a[href*="status.php?problem_id=&user_id=20186gdoi13"]:after{
-    content:'NZ';
-}
-
- a[href="userinfo.php?user=20187gdgzoi194"] {
-    font-size:0px !important;
-}
-a[href="userinfo.php?user=20187gdgzoi194"]:after {
-    font-size:15px !important;
-    content:'蕉躁csd';
-}
-a[href*="status.php?problem_id=&user_id=20187gdgzoi194"]:after{
-    content:'蕉躁';
-}
-}
