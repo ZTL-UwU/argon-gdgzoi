@@ -408,7 +408,14 @@ input[type="text"]:focus {
     box-shadow: 0 4px 6px rgba(50, 50, 93, .08), 0 1px 3px rgba(0, 0, 0, .05) !important;
     border: none;
 }
-
+.box-header.with-border {
+    border: none;
+}
+.well {
+    -webkit-box-shadow: none;
+    border: none;
+    background-color: #fff !important;
+}
 
 body {
     background-color: #f4f5f7 !important;
