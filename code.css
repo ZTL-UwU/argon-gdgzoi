@@ -281,7 +281,26 @@ select {
 .table-hover > tbody > tr:hover {
     background-color: #fff;
 }
+.datepicker table tr td span.focused, .datepicker table tr td span:hover {
+    background-color:rgb(45, 136, 189);
+}
+span[class="month focused"] {
+    color:#000;
+    background-color:#fdf59a !important;
+}
+span[class="year focused"] {
+    color:#000;
+    background-color:#fdf59a !important;
+}
+table[class="table-condensed"] {
+    width:100% !important;
+}
 td[class="day"] {
+    background-color: rgb(45, 136, 189);
+    line-height: 1.42857143 !important;
+    padding: 5px 0 !important;
+}
+td[colspan="7"] {
     background-color: rgb(45, 136, 189);
     line-height: 1.42857143 !important;
     padding: 5px 0 !important;
@@ -300,6 +319,19 @@ td[class="today day"] {
     background-color: rgb(45, 136, 189);
     line-height: 1.42857143 !important;
     padding: 5px 0 !important;
+}
+td[class="active day"] {
+    background-color: #1f72a2 !important;
+    line-height: 1.42857143 !important;
+    padding: 5px 0 !important;
+}
+div[style="min-heiht:80px"] {
+    position:fixed;
+    left:0px;
+    right:0px;
+}
+body > div > div.content-wrapper > section > div:nth-child(1) > div > div.box.box-danger {
+    margin-top:60px;
 }
 .b,
 strong {
