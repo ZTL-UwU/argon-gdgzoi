@@ -1,0 +1,12 @@
+body
+{
+    background-color: #fff !important;
+    font-size: 500%;
+}
+
+body::after
+{
+    color: #d00a0a;
+    margin-left: 15%;
+    content: "不忘初心 砥砺前行";
+}
