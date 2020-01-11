@@ -489,6 +489,84 @@ html > body.skin-blue.sidebar-mini.sidebar-collapse > div.wrapper > div.content-
     margin-left: 0px;
     padding: 10px 10px 10px 10px !important;
 }
+html > body.skin-green.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+html > body.skin-yellow.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+html > body.skin-red.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+html > body.skin-purple.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+html > body.skin-black.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+
+html > body.skin-blue-light.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+html > body.skin-green-light.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+html > body.skin-yellow-light.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+html > body.skin-red-light.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+html > body.skin-purple-light.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
+html > body.skin-black-light.sidebar-mini.sidebar-collapse > div.wrapper > div.content-wrapper > section.content > div.row > div.col-md-8 > div.box.box-info
+{
+    width: 100% !important;
+    /*     margin:0px 0px 0px 0px !important; */
+    margin-left: 0px;
+    padding: 10px 10px 10px 10px !important;
+}
 .form-inline
 {
     margin-top: 5px;
