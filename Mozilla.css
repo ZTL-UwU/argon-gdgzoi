@@ -387,6 +387,9 @@ td[class="active day"]
     line-height: 1.42857143 !important;
     padding: 5px 0 !important;
 }
+.container-fluid > center:nth-child(9) {
+    display: none;
+}
 div[style="min-heiht:80px"]
 {
     position: fixed;
