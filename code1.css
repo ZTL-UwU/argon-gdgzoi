@@ -1181,11 +1181,13 @@ pre
 }
 .panel.panel-uoj-accepted > .panel-heading
 {
+    color: #fff;
     border: none;
     background-color: #00a65a;
 }
 .panel.panel-uoj-wrong > .panel-heading
 {
+    color: #fff;
     border: none;
     background-color: #dd4b39;
 }
