@@ -1474,7 +1474,8 @@ a {
 
 .btn-default:hover,
 .btn-default:active,
-.btn-default.hover {
+.btn-default:hover,
+.btn-default:focus {
     background-color: #222d32
 }
 
@@ -1762,12 +1763,13 @@ pre {
 
 .btn-primary:hover,
 .btn-primary:active,
-.btn-primary.hover {
+.btn-primary:hover,
+.btn-primary:focus {
     box-shadow: 0 1px 3px rgba(50, 50, 93, .15), 0 1px 0 rgba(0, 0, 0, .02)
 }
 
-.btn-success.active,
-.btn-success.focus,
+.btn-success:active,
+.btn-success:focus,
 .btn-success:active,
 .btn-success:focus,
 .btn-success:hover,
@@ -1939,8 +1941,8 @@ pre {
     border: none !important
 }
 
-.btn-danger.active,
-.btn-danger.focus,
+.btn-danger:active,
+.btn-danger:focus,
 .btn-danger:active,
 .btn-danger:focus,
 .btn-danger:hover,
@@ -1952,7 +1954,7 @@ pre {
 
 .btn-danger:hover,
 .btn-danger:active,
-.btn-danger.hover {
+.btn-danger:hover {
     background-color: #dd4b39;
     border-color: #dd4b39;
     box-shadow: 0 1px 3px rgba(50, 50, 93, .15), 0 1px 0 rgba(0, 0, 0, .02)
@@ -1964,8 +1966,8 @@ pre {
     border-color: #dd4b39
 }
 
-.btn-warning.active,
-.btn-warning.focus,
+.btn-warning:active,
+.btn-warning:focus,
 .btn-warning:active,
 .btn-warning:focus,
 .btn-warning:hover,
@@ -1977,7 +1979,8 @@ pre {
 
 .btn-warning:hover,
 .btn-warning:active,
-.btn-warning.hover {
+.btn-warning:focus,
+.btn-warning:hover {
     background-color: #f39c12;
     border-color: #f39c12;
     box-shadow: 0 1px 3px rgba(50, 50, 93, .15), 0 1px 0 rgba(0, 0, 0, .02)
@@ -1989,8 +1992,8 @@ pre {
     border-color: #f39c12
 }
 
-.btn-success.active,
-.btn-success.focus,
+.btn-success:active,
+.btn-success:focus,
 .btn-success:active,
 .btn-success:focus,
 .btn-success:hover,
@@ -2002,7 +2005,8 @@ pre {
 
 .btn-success:hover,
 .btn-success:active,
-.btn-success.hover {
+.btn-success:focus,
+.btn-success:hover {
     background-color: #00a65a;
     border-color: #00a65a;
     box-shadow: 0 1px 3px rgba(50, 50, 93, .15), 0 1px 0 rgba(0, 0, 0, .02)
@@ -2023,15 +2027,16 @@ pre {
 
 .btn-info:hover,
 .btn-info:active,
-.btn-info.hover {
+.btn-info:focus,
+.btn-info:hover {
     box-shadow: 0 1px 3px rgba(50, 50, 93, .15), 0 1px 0 rgba(0, 0, 0, .02);
     color: #fff;
     border-color: #3c8dbc;
     background-color: #3c8dbc
 }
 
-.btn-info.active,
-.btn-info.focus,
+.btn-info:active,
+.btn-info:focus,
 .btn-info:active,
 .btn-info:focus,
 .btn-info:hover,
@@ -2050,8 +2055,9 @@ pre {
 }
 
 .btn-default:hover,
+.btn-default:focus,
 .btn-default:active,
-.btn-default.hover {
+.btn-default:hover {
     box-shadow: 0 1px 3px rgba(50, 50, 93, .15), 0 1px 0 rgba(0, 0, 0, .02);
     color: #fff !important;
     border-color: #222d32 !important;
@@ -2065,8 +2071,8 @@ pre {
     border-color: #222d32 !important
 }
 
-.btn-primary.active,
-.btn-primary.focus,
+.btn-primary:active,
+.btn-primary:focus,
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover,
