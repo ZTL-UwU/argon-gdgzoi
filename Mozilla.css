@@ -1,3 +1,13 @@
+/* ==UserStyle==
+@name        Argon GDGZOI
+@namespace   gdgzoi
+@version     5.5
+@homepageURL https://github.com/zhangtianli2006/argon-gdgzoi
+@updateURL   https://github.com/zhangtianli2006/argon-gdgzoi/raw/main/Mozilla.css
+@license     MIT
+@author      zhangtianli
+==/UserStyle== */
+
 @-moz-document url-prefix("http://www.gdgzoi.com"), url-prefix("http://gdgzoi.com") {
     /* [4] */
     @font-face {
