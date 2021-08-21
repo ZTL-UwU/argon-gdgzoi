@@ -13,10 +13,10 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run wget
-        run: |
-          wget https://userstyles.world/api/style/546.user.css
+        run: wget https://userstyles.world/api/style/546.user.css
           
       - name: Move Files
+        run: |
           rm Mozilla.css
           mv 546.user.css Mozilla.css
 
