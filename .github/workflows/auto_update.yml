@@ -1,0 +1,35 @@
+name: Get Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 16 * * *'
+
+jobs:
+  get_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run wget
+        run: |
+          wget https://userstyles.world/api/style/546.user.css
+          
+      - name: Move Files
+          rm Mozilla.css
+          mv 546.user.css Mozilla.css
+
+      - name: Commit Changes
+        run: |
+          git add .
+          git config --local user.email "zhangtianli2006@163.com"
+          git config --local user.name "zhangtianli2006"
+          git commit -sm "[auto] update from userstyle.world"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          tags: true
