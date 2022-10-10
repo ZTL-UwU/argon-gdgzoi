@@ -24,7 +24,7 @@ jobs:
         run: |
           git add .
           git config --local user.email "zhangtianli2006@163.com"
-          git config --local user.name "zhangtianli2006"
+          git config --local user.name "ZTL-UwU"
           git commit -sm "[auto] update from userstyle.world"
 
       - name: Push Changes
